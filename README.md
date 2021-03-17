@@ -1,4 +1,4 @@
-# mini-project
+# mini-project(HTML & CSS)
 <h1>ABOUT</h1>
 <i>This project is on simple web-designing using HTML(HyperText Markup Language)and CSS(Cascading Style Sheets)in the same html page.<br>
 We use CSS for better UI(User Interface).<br>
